@@ -1,0 +1,1 @@
+# sd-open-browser-automaticly
